@@ -1,5 +1,4 @@
-import AttendanceUpload from '../../components/AttendanceUpload';
-
+import AttendanceUpload from '../../components/Attendance_view'; // Correct path
 const AttendancePage = () => {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
