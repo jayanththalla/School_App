@@ -1,6 +1,12 @@
 # 🎓 School CRM System 🎓
 
 Welcome to the *School CRM System* project! This system is designed to provide a smooth and intuitive experience for parents, students, and staff, focusing on student management and engagement. With our CRM, schools can enhance communication, ensure timely updates, and foster a better learning environment.
+## PREVIEW
+
+
+https://github.com/user-attachments/assets/55c49e38-35b9-4f9f-9edf-ffd8804143f8
+
+
 
 ## 🌟 Key Features
 
